@@ -30,6 +30,10 @@ bool PlzComeOnMyShoulder(ApplyColler& System) {
 	Bit B;
 	return B.B;
 }
+bool PlzConnectYourVoiceToParsonalComputersAUX(ApplyColler& System) {
+	Bit B;
+	return B.B;
+}
 bool PlzLeave(ApplyColler& System) {
 	Bit B;
 	return B.B;
