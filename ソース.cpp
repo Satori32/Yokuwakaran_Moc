@@ -26,6 +26,10 @@ bool Call(ApplyColler& System) {
 	Bit B;
 	return B.B;
 }
+bool PlzComeOnMyShoulder(ApplyColler& System) {
+	Bit B;
+	return B.B;
+}
 bool PlzLeave(ApplyColler& System) {
 	Bit B;
 	return B.B;
